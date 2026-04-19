@@ -6,4 +6,4 @@ Welcome to Meme-Zoo! Your one-stop destination for digital laughter and chaotic 
 
 
 
-# [Live Link](https://meme-zoo.netlify.app/) to explore
+# [Live Link](https://meme-zoo.netlify.app/) to explor how it is!
